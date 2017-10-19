@@ -1,0 +1,19 @@
+/*
+Theme Name:     TwentyTwelveChild
+Description:    child theme for twenty twelve
+Author:         panggih
+Template:       twentytwelve
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../twentytwelve/style.css");
+
+a:link { color: deeppink; }
+a:visited { color: deeppink; }
+a:hover { color: deepskyblue; }
+
+
+.entry-date {
+  display:none;
+    }
